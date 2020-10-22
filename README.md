@@ -9,3 +9,6 @@ SMartyModeling is available for free using according to Creative Commons 4.0 lic
 
 ### Files
 This repository contains the compiled classes of SMartyModeling.
+
+The source code is available at https://github.com/leandroflores/smartymodeling-code 
+The JAR is available at https://github.com/leandroflores/smartymodeling-demo 
